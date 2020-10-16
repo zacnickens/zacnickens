@@ -2,7 +2,7 @@
 
 Im Zac Nickens. 
 
-![about zac]()
+![about zac](funcard.png)
 
 <!--
 **TorchNickens/TorchNickens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
