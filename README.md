@@ -1,27 +1,12 @@
 # Howdy y'all! 
 
-![about zac](funcard.png)
+![about zac](newcard.png)
 
-- :computer: I’m currently working on geospatial software on kubernetes
-- :school_satchel: I’m currently learning more GO 
-- :busts_in_silhouette: I’m looking to collaborate on geospatial or cloud. Or BOTH
-- 🤔 I’m looking for help with GO
+- :computer: I’m currently leading a SRE team in financial services / insurance space
+- :school_satchel: I’m currently learning more Go and Rust 
+- :busts_in_silhouette: I’m looking to collaborate on SRE, RE, and Cloud. HMU.
+- 🤔 I’m looking for great people.
 - 💬 Ask me about GUMBO or autism parenting
 - :bird: How to reach me: tweets @the_nickens
 - :thought_balloon: Pronouns: he/him/y'all
 
-
-<!--
-**TorchNickens/TorchNickens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
