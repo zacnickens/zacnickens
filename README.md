@@ -12,7 +12,7 @@ metadata:
     deployment.kubernetes.io/revision: "1"
     prometheus.io/scrape: 'true'
     prometheus.io/port: '9072'
-  creationTimestamp: 1984-11-27*01:37:55
+  creationTimestamp: 1984-xx-xx*01:37:55
   generation: 1
   labels:
     app: sre_alligator
