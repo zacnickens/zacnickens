@@ -38,18 +38,18 @@ spec:
     spec:
       containers:
         - name: zac_at_home
-        - value: 
+          value: 
             - Native New Orleanian
             - FAA Certified Remote Pilot
             - Dad to 3 cool kiddos
         - name: likes
-        - value: 
+          value: 
             - southern cuisine & cooking
             - golf
             - soccer
             - duck hunting
         - name: zac_at_work
-        -value: 
+          value: 
             - production engineering
             - site reliability engineer
             - antifragility & resilience
