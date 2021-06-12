@@ -1,6 +1,6 @@
 # Howdy y'all! 
 
-![about zac](zac.png)
+![about zac](zac.jpeg)
 
 
 
