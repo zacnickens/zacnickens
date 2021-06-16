@@ -58,11 +58,11 @@ spec:
 ```
 
 
-- :computer: I’m currently leading a SRE team in financial services / insurance space
-- :school_satchel: I’m currently learning more Go and Rust 
-- :busts_in_silhouette: I’m looking to collaborate on SRE, RE, and Cloud. HMU.
-- 🤔 I’m looking for great people.
-- 💬 Ask me about GUMBO or autism parenting
+- :computer: I’m currently an SRE Manager @ Outsystems
+- :school_satchel: I’m currently learning Pulumi and writing more GO
+- :busts_in_silhouette: I’m looking to collaborate on SRE, RE, and Cloud. HMU. PS...Im hiring! 
+- 🤔 I’m looking for great people. (seriously, we're hiring SREs, SWEs, and DevOps Eng. 
+- 💬 Ask me about team cultures, mentoring, and the SRE Meetup! 
 - :bird: How to reach me: tweets @the_nickens
 - :thought_balloon: Pronouns: he/him/y'all
 
