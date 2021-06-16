@@ -1,6 +1,6 @@
 # Howdy y'all! 
 
-- :computer: I’m currently an SRE Manager @ Outsystems
+- :computer: I’m currently the SRE Team Captain @ Outsystems
 - :school_satchel: I’m currently learning Pulumi and writing more GO
 - :busts_in_silhouette: I’m looking to collaborate on SRE, RE, and Cloud. HMU. PS...Im hiring! 
 - 🤔 I’m looking for great people. (seriously, we're hiring SREs, SWEs, and DevOps Eng for remote in US & EMEA & APAC)
