@@ -1,4 +1,4 @@
-# Howdy y'all! 
+# Laissez les bons temps rouler y'all! 
 
 - :computer: I’m currently the SRE Team Captain @ Outsystems
 - :school_satchel: I’m currently learning Pulumi and writing more GO
