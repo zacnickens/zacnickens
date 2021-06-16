@@ -1,5 +1,13 @@
 # Howdy y'all! 
 
+- :computer: I’m currently an SRE Manager @ Outsystems
+- :school_satchel: I’m currently learning Pulumi and writing more GO
+- :busts_in_silhouette: I’m looking to collaborate on SRE, RE, and Cloud. HMU. PS...Im hiring! 
+- 🤔 I’m looking for great people. (seriously, we're hiring SREs, SWEs, and DevOps Eng for remote in US & EMEA & APAC)
+- 💬 Ask me about team cultures, mentoring, and the SRE Meetup! 
+- :bird: How to reach me: tweets @the_nickens
+- :thought_balloon: Pronouns: he/him/y'all
+
 ![about zac](zac.jpeg)
 
 
@@ -57,12 +65,4 @@ spec:
             - geospatial systems engineering
 ```
 
-
-- :computer: I’m currently an SRE Manager @ Outsystems
-- :school_satchel: I’m currently learning Pulumi and writing more GO
-- :busts_in_silhouette: I’m looking to collaborate on SRE, RE, and Cloud. HMU. PS...Im hiring! 
-- 🤔 I’m looking for great people. (seriously, we're hiring SREs, SWEs, and DevOps Eng for remote in US & EMEA & APAC)
-- 💬 Ask me about team cultures, mentoring, and the SRE Meetup! 
-- :bird: How to reach me: tweets @the_nickens
-- :thought_balloon: Pronouns: he/him/y'all
 
