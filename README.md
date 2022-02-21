@@ -56,6 +56,7 @@ spec:
             - golf
             - soccer
             - duck hunting
+            - wrongfully judging other's gumbo
         - name: zac_at_work
           value: 
             - production engineering
