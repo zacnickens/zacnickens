@@ -8,7 +8,7 @@
 - :bird: How to reach me: tweets @the_nickens
 
 
-![about zac](zac_umbrella.jpeg)
+![about zac](zac_umbrella.jpg)
 
 
 
