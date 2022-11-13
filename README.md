@@ -47,14 +47,14 @@ spec:
       containers:
         - name: zac_at_home
           value: 
-            - Native New Orleanian
-            - FAA Certified Remote Pilot
-            - Dad to 3 cool kiddos
+            - native New Orleanian
+            - geospatial scientist
+            - armchair mathematician
         - name: likes
           value: 
-            - southern cuisine & cooking
+            - southern cuisine
             - golf
-            - soccer
+            - footy
             - duck hunting
         - name: zac_at_work
           value: 
