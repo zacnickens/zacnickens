@@ -1,14 +1,14 @@
 # Laissez les bons temps rouler y'all! 
 
 - :computer: I do/manage Reliability Engineering & FinOps @ Outsystems
-- :school_satchel: I’m currently studying astronomy and astrophysics.
-- :busts_in_silhouette: I’m looking to collaborate on SRE, RE, and FinOps. HMU. PS...Im hiring! 
+- :school_satchel: I’m currently studying data sceince and complexity. 
+- :busts_in_silhouette: I’m looking to collaborate on SRE, Complexity Science, and FinOps. HMU. PS...Im hiring! 
 - 🤔 I’m looking for people who value emptathy & empowerment in engineering. 
 - 💬 Ask me about team cultures, mentoring, and the SLOconf! 
 - :bird: How to reach me: tweets @the_nickens
 
 
-![about zac](zac.jpeg)
+![about zac](zac_umbrella.jpeg)
 
 
 
