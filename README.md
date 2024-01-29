@@ -8,9 +8,6 @@
 
 
 ![about zac](dog.jpg)
-git@github.com:zacnickens/zacnickens.git
-
-
 ```yaml
 apiVersion: apps/v1
 kind: he/him/yall
