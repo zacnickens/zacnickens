@@ -1,15 +1,14 @@
 # Laissez les bons temps rouler y'all! 
 
-- :computer: I do/manage Reliability Engineering & FinOps @ Outsystems
-- :school_satchel: I’m currently studying data sceince and complexity. 
-- :busts_in_silhouette: I’m looking to collaborate on SRE, Complexity Science, and FinOps. HMU. PS...Im hiring! 
+- :computer: Principle Engineer @Plainsight.AI
+- :school_satchel: I love learning, especially things related to complexity science, scientific computing, and leadership  
 - 🤔 I’m looking for people who value emptathy & empowerment in engineering. 
-- 💬 Ask me about team cultures, mentoring, and the SLOconf! 
-- :bird: How to reach me: tweets @the_nickens
+- 💬 Talk to me about SLOs, kickboxing, and AI!  
 
 
-![about zac](zac_umbrella.jpg)
 
+![about zac](dog.jpg)
+git@github.com:zacnickens/zacnickens.git
 
 
 ```yaml
@@ -54,15 +53,14 @@ spec:
           value: 
             - southern cuisine
             - golf
-            - footy
+            - bayesian statistics
             - duck hunting
         - name: zac_at_work
           value: 
-            - production engineering
-            - site reliability engineer
+            - reliability and devops
+            - scientific computing and computer vision
             - antifragility & resilience
             - DevOps advocacy
-            - geospatial systems engineering
 ```
 
 
