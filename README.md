@@ -52,6 +52,7 @@ spec:
             - golf
             - bayesian statistics
             - duck hunting
+            - wrongfully judging other's gumbo
         - name: zac_at_work
           value: 
             - reliability and devops
