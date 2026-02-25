@@ -77,4 +77,3 @@ are failures of synthesis, not computation.
 Contact
 
 LinkedIn: https://www.linkedin.com/in/zac-nickens-2aa96a79/
-Email: (add if you want this public)
